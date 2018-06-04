@@ -1,0 +1,7 @@
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\bin\Debug\ClientUdpShutdown.exe.config
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\bin\Debug\ClientUdpShutdown.exe
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\bin\Debug\ClientUdpShutdown.pdb
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\obj\Debug\ClientUdpShutdown.csprojResolveAssemblyReference.cache
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\obj\Debug\ClientUdpShutdown.csproj.CoreCompileInputs.cache
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\obj\Debug\ClientUdpShutdown.exe
+C:\Users\Мухамедьян\source\repos\ClientUdpShutdown\ClientUdpShutdown\obj\Debug\ClientUdpShutdown.pdb

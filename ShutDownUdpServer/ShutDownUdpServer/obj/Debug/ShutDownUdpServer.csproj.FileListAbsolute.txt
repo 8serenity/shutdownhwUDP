@@ -1,0 +1,7 @@
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\bin\Debug\ShutDownUdpServer.exe.config
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\bin\Debug\ShutDownUdpServer.exe
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\bin\Debug\ShutDownUdpServer.pdb
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\obj\Debug\ShutDownUdpServer.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\obj\Debug\ShutDownUdpServer.csproj.CoreCompileInputs.cache
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\obj\Debug\ShutDownUdpServer.exe
+c:\users\мухамедьян\source\repos\ShutDownUdpServer\ShutDownUdpServer\obj\Debug\ShutDownUdpServer.pdb
